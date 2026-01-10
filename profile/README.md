@@ -1,19 +1,19 @@
+
 <html>
  <h1 align="center">CREATOR: <br>didaCtic and geneRic assEmbly progrAmming simulaTOR </h1>
- <img width="5120" height="3325" alt="creator interface" src="https://github.com/user-attachments/assets/bbfb18b4-8310-406b-aad7-89223b9c6d87" />
+ <h1 align="center"><img alt="Image of CREATOR" width="640vw" src="https://creatorsim.github.io/images/user_mode/execute_program.PNG"><br>https://creatorsim.github.io/</h1>
 </html>
-
 
 ## CREATOR project
 
 ![example workflow](https://github.com/creatorsim/creator/actions/workflows/creator_workflow.yml/badge.svg)
-[![Codacy Badge](https://app.codacy.com/project/badge/Grade/296da1a3683f4e2c9d6d03edc99ec75a)](https://app.codacy.com/gh/creatorsim/web-beta/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/267f311dd0dd4ce3affed76ac070f47a)](https://app.codacy.com/gh/creatorsim/creator/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)
 [![Generic badge](https://img.shields.io/badge/achecker-WCAG%202.0%20(Level%20AAA)-green.svg)](https://shields.io/)
 
 |                              | URL                                             | 
 |:----------------------------:|:------------------------------------------------| 
 | Creator                      | https://creatorsim.github.io/creator/           |
-| Documentation                | https://creatorsim.github.io/wiki               |
+| Documentation                | https://creatorsim.github.io/                   | 
 | Examples included            | :point_right: [RISC-V](docs/examples.md#point_right---risc-v) :point_right: [MIPS-32](docs/examples.md#point_right---mips) | 
 
 ### Dockers for CREATOR
@@ -27,17 +27,16 @@
 
 |                              | URL                                             | 
 |:----------------------------:|:------------------------------------------------| 
-| Source Code                  | https://github.com/creatorsim/creator/| 
-| :microscope: Nightly build   | https://github.com/creatorsim/creator-beta/|
+| Source Code                  | https://github.com/creatorsim/creator/          | 
+| :microscope: Nightly build   | https://dcamarmas.github.io/creator             |
 | :clipboard:  Tests           | [Test Descriptions](docs/test.md)               | 
 
-### Supported Internet Browsers
+### Supported Internet Browser
 
 ![Edge](https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white)
 ![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
 ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
 ![Safari](https://img.shields.io/badge/Safari-000000?style=for-the-badge&logo=Safari&logoColor=white)
-
 
 
 ## Publications
@@ -50,19 +49,18 @@
   * Conference paper: Jornadas Sarteco
   * Authors: Juan Carlos Cano-Resa, Félix García-Carballeira, Diego Camarmas-Alonso, Alejandro Calderón-Mateos
   * [:link: Open publication](http://dx.doi.org/10.5281/zenodo.15773218)
-  ```bibtex
+  ```bash
   @inproceedings{cano_resa_2025_15773218,
-    author    = {Cano-Resa, Juan Carlos and Garcia-Carballeira, Felix and Camarmas-Alonso, Diego and Calderon-Mateos, Alejandro},
-    title     = {Simulador web para RISC-V basado en la especificación SAIL},
-    booktitle = {Avances en Arquitectura y Tecnología de Computadores. Actas de las Jornadas SARTECO},
-    year      = 2025,
-    pages     = {367-376},
-    publisher = {Zenodo},
-    month     = jun,
-    venue     = {Sevilla, Spain},
-    doi       = {10.5281/zenodo.15773218},
-    url       = {https://doi.org/10.5281/zenodo.15773218}
-  }
+  author = {Cano Resa, Juan Carlos and Garcia Carballeira, Felix and Camarmas Alonso, Diego and Calderon Mateos, Alejandro},
+  title = {Simulador web para RISC-V basado en la especificación SAIL},
+  booktitle = {Avances en Arquitectura y Tecnología de Computadores. Actas de las Jornadas SARTECO},
+  year = 2025,
+  pages = {367-376},
+  publisher = {Zenodo},
+  month = jun,
+  venue = {Sevilla, Spain},
+  doi = {10.5281/zenodo.15773218},
+  url = {https://doi.org/10.5281/zenodo.15773218}}
   ```
 </details>
 
@@ -72,19 +70,18 @@
   * Conference paper: Jornadas Sarteco
   * Authors: Elisa Utrilla-Arroyo, Diego Camarmas-Alonso, Félix García-Carballeira, Alejandro Calderón-Mateos
   * [:link: Open publication](http://dx.doi.org/10.5281/zenodo.15773284)
-  ```bibtex
+  ```bash
   @inproceedings{utrilla_arroyo_2025_15773284,
-    author    = {Utrilla-Arroyo, Elisa and Camarmas-Alonso, Diego and Garcia-Carballeira, Felix and Calderon-Mateos, Alejandro},
-    title     = {Extensión del simulador CREATOR para integrar funcionalidades de Arduino: caso de estudio con el microcontrolador ESP32},
-    booktitle = {Avances en Arquitectura y Tecnología de Computadores. Actas de las Jornadas SARTECO},
-    year      = 2025,
-    pages     = {637-643},
-    publisher = {Zenodo},
-    month     = jun,
-    venue     = {Sevilla, Spain},
-    doi       = {10.5281/zenodo.15773284},
-    url       = {https://doi.org/10.5281/zenodo.15773284}
-  }
+  author = {Utrilla Arroyo, Elisa and Camarmas Alonso, Diego and Garcia Carballeira, Felix and Calderon Mateos, Alejandro},
+  title = {Extensión del simulador CREATOR para integrar funcionalidades de Arduino: caso de estudio con el microcontrolador ESP32},
+  booktitle = {Avances en Arquitectura y Tecnología de Computadores. Actas de las Jornadas SARTECO},
+  year = 2025,
+  pages = {637-643},
+  publisher = {Zenodo},
+  month = jun,
+  venue = {Sevilla, Spain},
+  doi = {10.5281/zenodo.15773284},
+  url = {https://doi.org/10.5281/zenodo.15773284}}
   ```
 </details>
 
@@ -104,17 +101,16 @@
   * Journal paper: IEEE Access
   * Authors: Diego Camarmas-Alonso, Félix García-Carballeira, Alejandro Calderón-Mateos, Elías Del-Pozo-Puñal
   * [:link: Open publication](https://doi.org/10.1109/ACCESS.2024.3406935)
-  ```bibtex
-  @article{10540579,
-    author  = {Camarmas-Alonso, Diego and Garcia-Carballeira, Felix and Calderon-Mateos, Alejandro and Del-Pozo-Puñal, Elias},
-    journal = {IEEE Access},
-    title   = {CREATOR: An Educational Integrated Development Environment for RISC-V Programming},
-    year    = {2024},
-    volume  = {},
-    number  = {},
-    pages   = {1-1},
-    doi     = {10.1109/ACCESS.2024.3406935}
-  }
+  ```bash
+  @ARTICLE{10540579,
+  author={Camarmas-Alonso, Diego and Garcia-Carballeira, Felix and Calderon-Mateos, Alejandro and Del-Pozo-Puñal, Elias},
+  journal={IEEE Access},
+  title={CREATOR: An Educational Integrated Development Environment for RISC-V Programming},
+  year={2024},
+  volume={},
+  number={}, 
+  pages={1-1},
+  doi={10.1109/ACCESS.2024.3406935}}
   ```
 </details>
 
@@ -124,19 +120,18 @@
   * Conference paper: Jornadas Sarteco
   * Authors: Diego Camarmas-Alonso, Félix García-Carballeira, Alejandro Calderón-Mateos, Elías Del-Pozo-Puñal
   * [:link: Open publication](https://doi.org/10.5281/zenodo.11632954)
-  ```bibtex
+  ```bash
   @inproceedings{camarmas_alonso_2024_11632955,
-    author    = {Camarmas-Alonso, Diego and Garcia-Carballeira, Felix and Calderon-Mateos, Alejandro and Del-Pozo-Puñal, Elías},
-    title     = {{Servicio de laboratorio remoto para la integración del simulador CREATOR con hardware RISC-V}},
-    booktitle = {{Avances en Arquitectura y Tecnología de Computadores. Actas de las Jornadas SARTECO}},
-    year      = 2024,
-    pages     = {65-371},
-    publisher = {Zenodo},
-    month     = jun,
-    venue     = {A Coruña, Spain},
-    doi       = {10.5281/zenodo.11632955},
-    url       = {https://doi.org/10.5281/zenodo.11632955}
-  }
+  author = {Camarmas-Alonso, Diego and Garcia-Carballeira, Felix and Calderon-Mateos, Alejandro and Del-Pozo-Puñal, Elías},
+  title = {{Servicio de laboratorio remoto para la integración del simulador CREATOR con hardware RISC-V}},
+  booktitle = {{Avances en Arquitectura y Tecnología de Computadores. Actas de las Jornadas SARTECO}},
+  year = 2024,
+  pages = {65-371},
+  publisher = {Zenodo},
+  month = jun,
+  venue = {A Coruña, Spain},
+  doi = {10.5281/zenodo.11632955},
+  url = {https://doi.org/10.5281/zenodo.11632955}}
   ```
 </details>
 
@@ -156,15 +151,14 @@
   * Conference paper: Jornadas Sarteco
   * Authors: Diego Camarmas-Alonso, Félix García-Carballeira, Alejandro Calderón-Mateos, Elías Del-Pozo-Puñal
   * [:link: Open publication](https://doi.org/10.5281/zenodo.8378899)
-  ```bibtex
+  ```bash
   @proceedings{diego_camarmas_alonso_2023_8378899,
-    title     = {{Integración del simulador CREATOR con hardware RISC-V: caso de estudio con microcontrolador ESP32}},
-    year      = 2023,
-    publisher = {Zenodo},
-    month     = sep,
-    doi       = {10.5281/zenodo.8378899},
-    url       = {https://doi.org/10.5281/zenodo.8378899}
-  }
+  title = {{Integración del simulador CREATOR con hardware RISC-V: caso de estudio con microcontrolador ESP32}},
+  year = 2023,
+  publisher = {Zenodo},
+  month = sep,
+  doi = {10.5281/zenodo.8378899},
+  url = {https://doi.org/10.5281/zenodo.8378899}}
   ```
 </details>
 
@@ -184,17 +178,16 @@
   * Conference paper: CLEI
   * Authors: Diego Camarmas-Alonso, Félix García-Carballeira, Alejandro Calderón-Mateos, Elías Del-Pozo-Puñal
   * [:link: Open publication](http://doi.org/10.1109/CLEI53233.2021.9640144)
-  ```bibtex
-  @inproceedings{9640144,
-    author    = {Camarmas-Alonso, Diego and García-Carballeira, Félix and Del-Pozo-Puñal, Elías and Mateos, Alejandro Calderón},
-    booktitle = {2021 XLVII Latin American Computing Conference (CLEI)},
-    title     = {A new generic simulator for the teaching of assembly programming},
-    year      = {2021},
-    volume    = {},
-    number    = {},
-    pages     = {1-9},
-    doi       = {10.1109/CLEI53233.2021.9640144}
-  }
+  ```bash
+  @INPROCEEDINGS{9640144,
+  author={Camarmas-Alonso, Diego and García-Carballeira, Félix and Del-Pozo-Puñal, Elías and Mateos, Alejandro Calderón},
+  booktitle={2021 XLVII Latin American Computing Conference (CLEI)},
+  title={A new generic simulator for the teaching of assembly programming},
+  year={2021},
+  volume={},
+  number={},
+  pages={1-9},
+  doi={10.1109/CLEI53233.2021.9640144}}
   ```
 </details>
 
@@ -204,76 +197,37 @@
   * Conference paper: Jornadas Sarteco
   * Authors: Diego Camarmas-Alonso, Félix García-Carballeira, Alejandro Calderón-Mateos, Elías Del-Pozo-Puñal
   * [:link: Open publication](http://doi.org/10.5281/zenodo.5130302)
-  ```bibtex
+  ```bash
   @proceedings{diego_camarmas_alonso_2021_5130302,
-    title     = {{CREATOR: Simulador didáctico y genérico para la programación en ensamblador}},
-    year      = 2021,
-    publisher = {Zenodo},
-    month     = jul,
-    doi       = {10.5281/zenodo.5130302},
-    url       = {https://doi.org/10.5281/zenodo.5130302}
-  }
+  title = {{CREATOR: Simulador didáctico y genérico para la programación en ensamblador}},
+  year = 2021,
+  publisher = {Zenodo},
+  month = jul,
+  doi = {10.5281/zenodo.5130302},
+  url = {https://doi.org/10.5281/zenodo.5130302}}
   ```
 </details>
 
 
-
 ## Authors
-  * :technologist: [Diego Camarmas Alonso](https://github.com/dcamarmas)
-  * :technologist: [Félix García Carballeira](https://www.researchgate.net/profile/Felix_Garcia-Carballeira)
-  * :technologist: [Alejandro Calderón Mateos](https://github.com/acaldero)
+  * :technologist: Diego Camarmas Alonso
+  * :technologist: Félix García Carballeira 
+  * :technologist: Alejandro Calderón Mateos
     
 ### Contributors
-  * :technologist: [Elías Del Pozo Puñal](https://github.com/edelpozop) (Beta tester)
-  * :technologist: [Lucas Elvira Martín](https://github.com/luelvira) (RISC-V and several improvements)
-  * :technologist: [José Antonio Verde Jiménez](https://github.com/joseaverde) (Real hardware integration)
-  * :technologist: [Álvaro Guerrero Espinosa](https://github.com/ALVAROPING1) (New compiler)
-  * :technologist: [Elisa Utrilla Arroyo](https://github.com/EUtrilla2002) (Real hardware integration)
-  * :technologist: [Luis Daniel Casais Mezquida](https://github.com/rajayonin) (Website migration, interrupts, timers, and memory-mapped devices)
-  * :technologist: [Jorge Ramos Santana](https://github.com/mjorgers) (core/tests rewrite, new web UI, new CLI, RV64 & Z80 architectures)
-  * :technologist: [Juan Carlos Cano Resa](https://github.com/Jotaceee) (SAIL integration)
-
+  * :technologist: Elías Del Pozo Puñal (Beta tester)
+  * :technologist: Lucas Elvira Martín (RISC-V and several improvements)
+  * :technologist: José Antonio Verde Jiménez (Real hardware integration)
+  * :technologist: Álvaro Guerrero Espinosa (New compiler)
 
 
 ## ChangeLog
 
 <details open>
-<summary>:atom: 6.0.x:</summary>
-
-  - [x] **BREAKING CHANGES**:
-     * New YAML architecture format (w/ [JSON schema](docs/schema/architecture.json))
-     * New library format (Existing libraries must be recompiled)
-  - [x] New functionality:
-     * Interrupts and timers
-     * Memory-mapped devices
-     * Validate program execution through the CLI (`--validator`)
-  - [x] New architectures:
-     * RISC-V 64
-     * RISC-V 32 (w/ interrupts)
-     * Z80
-  - [x] User Interface:
-     * Revamped web user interface
-        * Revamped memory viewer
-        * Vastly improved mobile support
-        * New [Monaco](https://microsoft.github.io/monaco-editor)-based editor
-        * Libraries now have metadata to display help
-     * Vim mode in web editor
-     * Revamped CLI version
-  - [x] Modular design:
-     * Migrate project to [Vite](https://vite.dev/) and [ES Modules](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules), which vastly improves the developer experience
-     * Update to Vue 3, Bootstrap 5 & Codemirror 6, among others, & remove jQuery
-     * Rewrote website and many other core parts in TypeScript
-     * Revamped unittests
-  - [x] Other fixes:
-     * Fix errors in instruction implementation
-
-</details>
-
-<details>
 <summary>:atom: 5.0.x:</summary>
 
   - [x] New functionality:
-     * New assembler based on Rust
+     * New compiler based on Rust
      * New architecture editor based on CodeMirror
   - [x] User Interface:
      * Several improvements and minor bugs fixed
@@ -372,14 +326,3 @@
   - [x] Bootstrap-vue upgraded up to v2.15.0
 
 </details>
-
-
-
-## Developing CREATOR
-See [`docs/dev.md`](docs/dev.md).
-
-
-
-## Sponsors
-Integrated development environment for teaching and research on RISC-V processors (PDC2023-145832-I00) funded by MICIU/AEI/ 10.13039/501100011033 and by the European Union NextGenerationEU/PRTR
-![sponsor logos](https://github.com/user-attachments/assets/a37ba843-dd07-4014-be3c-ee105bd2d463)
